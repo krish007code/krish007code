@@ -13,7 +13,7 @@ I am a **Computer Science student** at **BML Munjal University**. I am passionat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,postgres,terraform,azure,docker,git,linux,fedora,bash,vim,obsidian,notion&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,terraform,azure,docker,git,linux,fedora,bash,vim,obsidian,notion&perline=7" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ I am a **Computer Science student** at **BML Munjal University**. I am passionat
 ### 💻 Languages & Scripting
 * **Python:** Primary language for Data Engineering and scripting.
 * **SQL (PostgreSQL):** Database management and complex querying.
-* **C/C++:** Systems programming and computer science fundamentals.
+* **C:** Systems programming and computer science fundamentals.
 * **Bash:** Automating tasks within my Fedora environment.
 
 ### 🔧 Developer Tools
