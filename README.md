@@ -13,7 +13,7 @@ I am a **Computer Science student** at **BML Munjal University**. I am passionat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,terraform,azure,docker,git,linux,fedora,bash,vim,obsidian,notion&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,terraform,azure,docker,css,git,linux,fedora,bash,vim,obsidian,notion&perline=6" />
   </a>
 </p>
 
