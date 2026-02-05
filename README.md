@@ -9,7 +9,11 @@ I am a Computer Science student at BML Munjal University. I am passionate about 
 - **Open Source:** I do most of my development on **Fedora Linux**.
 ### 🛠️ Toolbox
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql,linux,fedora,git,bash,docker)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,c,vim,bash,linux" />
+  </a>
+</p>
 
 - **Languages:** Python, SQL, C, Bash
 - **Tools:** Git, Docker, Kestra, Obsidian, MinIO, Azure, Terraform, Postgress, Notion 
