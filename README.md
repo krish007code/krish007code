@@ -11,8 +11,12 @@ I am a Computer Science student at BML Munjal University. I am passionate about 
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,c,vim,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,postgres,terraform,azure,docker,git,linux,fedora,bash,vim,obsidian,notion&perline=7" />
   </a>
+</p>
+
+<p align="center">
+  <i>Currently building data pipelines and exploring cloud infrastructure.</i>
 </p>
 
 - **Languages:** Python, SQL, C, Bash
