@@ -8,9 +8,13 @@ I am a Computer Science student at BML Munjal University. I am passionate about 
 - **Web Development:** Building full-stack foundations via The Odin Project.
 - **Open Source:** I do most of my development on **Fedora Linux**.
 ### 🛠️ Toolbox
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql,linux,fedora,git,bash,docker)](https://skillicons.dev)
+
 - **Languages:** Python, SQL, C, Bash
 - **Tools:** Git, Docker, Kestra, Obsidian, MinIO, Azure, Terraform, Postgress, Notion 
 - **Environment:** Fedora Workstation
+  
 ### 📫 How to reach me
 - **LinkedIn:** www.linkedin.com/in/kavyansh-kumar-baghel-917850372
 - **Email:** kavyanshkumarbaghel@gmail.com
