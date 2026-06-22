@@ -1,4 +1,4 @@
-## Hi there, I'm Kavyansh! 👋
+## Hi there, I'm Kavyansh! 
 
 I am a **Computer Science student** at **BML Munjal University**. I am passionate about understanding how data systems work and how to deploy them securely in the cloud. I currently use **Fedora Linux** as my primary development environment.
 
